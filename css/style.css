@@ -1590,7 +1590,7 @@ img {
     grid-column: 2/14;
   }
 }
-@media screen and (max-width: 1220px) {
+@media screen and (max-width: 1430px) {
   /* ハンバーガーボタン */
   .hamburger-btn {
     display: flex;
@@ -1716,7 +1716,7 @@ img {
     width: 20px;
   }
 }
-@media screen and (max-width: 1220px) {
+@media screen and (max-width: 1430px) {
   .sidebar-left,
   .sidebar-right {
     display: none;
